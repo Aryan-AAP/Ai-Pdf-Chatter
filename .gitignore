@@ -9,6 +9,7 @@ service_key.json
 firebase.ts
 .env
 .env.local
+firebase.ts
 
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
