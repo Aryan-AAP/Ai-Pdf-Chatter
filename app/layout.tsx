@@ -20,7 +20,7 @@ export default function RootLayout({
 
 
     <html lang="en">
-      <body className='min-h-screen flex flex-col h-screen overflow-hidden'>{children}</body>
+      <body className='min-h-screen   flex flex-col h-screen overflow-hidden'>{children}</body>
     </html>
     </ClerkProvider>
   );
